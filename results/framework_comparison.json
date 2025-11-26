@@ -1,0 +1,78 @@
+{
+  "pdf_file": "pdf/A0124_pages_1_to_4.pdf",
+  "analysis_date": "2025-11-26T15:05:33.601077",
+  "results": {
+    "pymupdf_widgets": [],
+    "pymupdf_rectangles": 11,
+    "pypdf_fields": [],
+    "pdfplumber_rectangles": 10,
+    "pdfplumber_labels": 8
+  },
+  "text_to_box_mappings": [
+    {
+      "label_korean": "성명",
+      "label_english": "Name",
+      "label_position": {
+        "x": 51.27,
+        "y": 173.53999999999996
+      },
+      "input_box": {
+        "x0": 79.13,
+        "x1": 148.82999999999998,
+        "y0": 165.31000000000006,
+        "y1": 189.36,
+        "width": 69.69999999999999,
+        "height": 24.049999999999955
+      }
+    },
+    {
+      "label_korean": "주민등록번호",
+      "label_english": "ID Number",
+      "label_position": {
+        "x": 150.72,
+        "y": 173.53999999999996
+      },
+      "input_box": {
+        "x0": 207.22,
+        "x1": 371.02,
+        "y0": 165.31000000000006,
+        "y1": 189.36,
+        "width": 163.79999999999998,
+        "height": 24.049999999999955
+      }
+    },
+    {
+      "label_korean": "연락처",
+      "label_english": "Contact",
+      "label_position": {
+        "x": 372.54,
+        "y": 173.53999999999996
+      },
+      "input_box": {
+        "x0": 401.9,
+        "x1": 552.52,
+        "y0": 165.31000000000006,
+        "y1": 189.36,
+        "width": 150.62,
+        "height": 24.049999999999955
+      }
+    },
+    {
+      "label_korean": "주소",
+      "label_english": "Address",
+      "label_position": {
+        "x": 51.27,
+        "y": 295.4
+      },
+      "input_box": {
+        "x0": 82.01,
+        "x1": 93.31,
+        "y0": 296.86,
+        "y1": 308.15999999999997,
+        "width": 11.299999999999997,
+        "height": 11.299999999999955
+      }
+    }
+  ],
+  "recommendation": "pdfplumber"
+}

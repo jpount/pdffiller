@@ -1,0 +1,14 @@
+
+{
+  "fileName": "36d3bc15-37ad-40e5-ae3e-94ea4f9a1264.png",
+  "extractedText": "1. 성명 Jeon Chulmin 주민 번호 940101-1111111 성별 2. 주소 48, Sambong-ro, Jongno-gu, Seoul, 03156, Rep. of KOREA 전화: 010-1234-1234",
+  "confidence": 0.8400000000000001,
+  "language": "kor+eng",
+  "parsedJson": {
+    "name": "Jeon Chulmin",
+    "id_number": "940101-1111111",
+    "address": "48, Sambong-ro, Jongno-gu, Seoul, 03156, Rep. of KOREA",
+    "phone": "010-1234-1234"
+  }
+}
+             

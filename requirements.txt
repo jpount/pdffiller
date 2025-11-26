@@ -1,0 +1,19 @@
+# PDF Processing Libraries
+PyMuPDF==1.23.26  # Also known as fitz - powerful PDF manipulation
+pypdf==3.17.4      # Modern PDF library (successor to PyPDF2)
+pdfplumber==0.11.0 # Excellent for text extraction and analysis
+
+# Data Processing
+pandas==2.1.4      # Data analysis and manipulation
+
+# Jupyter
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+
+# AWS Integration (Optional - for notebook 03)
+boto3==1.34.34        # AWS SDK for Python (Textract, S3, etc.)
+botocore==1.34.34     # Core functionality for boto3
+
+# Utilities
+python-dateutil==2.8.2
